@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hu.petrik.szuperhosprojekt.BosszualloTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-12-01T17:15:36" hostname="Auers-MacBook-Air.local" time="0.057">
+  <properties/>
+  <testcase name="testToString()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.002"/>
+  <testcase name="legyoziEBatman()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.001"/>
+  <testcase name="isVanEGyengesege()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.001"/>
+  <testcase name="setVanEGyengesege()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.001"/>
+  <testcase name="ImplementsInterfaces()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.009"/>
+  <testcase name="getSzuperero()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.002"/>
+  <testcase name="mekkoraAzEreje()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.001"/>
+  <testcase name="megmentiAVilagot()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.004"/>
+  <testcase name="legyoziEBosszuallo()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.008"/>
+  <testcase name="setSzuperero()" classname="hu.petrik.szuperhosprojekt.BosszualloTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
